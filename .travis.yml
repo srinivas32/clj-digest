@@ -1,2 +1,4 @@
 language: clojure
-arch: ppc64le
+arch: 
+   - ppc64le
+   - amd64
